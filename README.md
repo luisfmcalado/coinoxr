@@ -1,0 +1,1 @@
+# Coinoxr - Open Exchange Rates
