@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "invalid_date_range",
+    "description": "Invalid date range: `start` and `end` dates must be valid days, in the format 'YYYY-MM-DD'."
+  }
+}

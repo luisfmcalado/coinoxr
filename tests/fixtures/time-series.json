@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "content": {
+    "disclaimer": "https://openexchangerates.org/terms/",
+    "license": "https://openexchangerates.org/license/",
+    "start_date": "2013-01-01",
+    "end_date": "2013-01-31",
+    "base": "AUD",
+    "rates": {
+      "2013-01-01": {
+        "BTC": 0.0778595876,
+        "EUR": 0.785518,
+        "HKD": 8.04136
+      },
+      "2013-01-02": {
+        "BTC": 0.0789400739,
+        "EUR": 0.795034,
+        "HKD": 8.138096
+      },
+      "2013-01-03": {
+        "BTC": 0.0785299961,
+        "EUR": 0.80092,
+        "HKD": 8.116954
+      }
+    }
+  }
+}

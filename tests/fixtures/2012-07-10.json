@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "content": {
+    "disclaimer": "Usage subject to terms: https://openexchangerates.org/terms",
+    "license": "https://openexchangerates.org/license",
+    "timestamp": 1341936000,
+    "base": "USD",
+    "rates": {
+      "AED": 3.672914,
+      "AFN": 48.337601,
+      "ALL": 111.863334
+    }
+  }
+}

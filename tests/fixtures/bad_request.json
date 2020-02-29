@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "not_available",
+    "description": "The combination of start time and period used resulted in an end time that is in the future."
+  }
+}

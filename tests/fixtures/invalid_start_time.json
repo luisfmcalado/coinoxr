@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "invalid_start_time",
+    "description": "Invalid start: `start_time` must be in ISO 8601 format with 0 seconds and UTC timezone: YYYY-MM-DDTHH:MM:00Z."
+  }
+}

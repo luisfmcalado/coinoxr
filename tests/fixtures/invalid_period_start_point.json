@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "invalid_period_for_start_time",
+    "description": "Invalid period for start time: `start_time` is invalid for the selected `period` in UTC time. Please see the documentation for details related to valid start time and period values."
+  }
+}

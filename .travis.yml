@@ -1,0 +1,22 @@
+sudo: false
+dist: xenial
+
+language: python
+
+matrix:
+  include:
+    - python: "3.7"
+    - python: "3.8"
+
+cache:
+  pip: true
+
+install:
+  - make venv
+
+script:
+  - make lint
+  - make fmtcheck
+  - make ci
+
+after_success: make coveralls

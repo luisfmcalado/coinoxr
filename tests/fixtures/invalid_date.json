@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "not_available",
+    "description": "The date you requested is invalid - please try a different date, or contact support@openexchangerates.org."
+  }
+}

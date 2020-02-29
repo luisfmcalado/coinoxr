@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "invalid_currency",
+    "description": "Invalid `to` currency symbol - please try again, or contact support@openexchangerates.org"
+  }
+}

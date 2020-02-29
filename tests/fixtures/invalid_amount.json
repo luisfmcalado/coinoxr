@@ -1,0 +1,9 @@
+{
+  "code": 400,
+  "content": {
+    "error": true,
+    "status": 400,
+    "message": "invalid_amount",
+    "description": "Invalid currency amount - please try again, or contact support@openexchangerates.org"
+  }
+}
